@@ -127,14 +127,14 @@
 
 | 内容领域        | 认领排期  |
 | ------------- | -------- |
-| Go基础         |          |
+| Go基础         | machitaoX |
 | 操作系统        | yanyuwei |
 | 计算机网络      | liruanjun |
 | 数据库         |          |
 | 算法           |          |
 | 数据结构        |fukangyue |
 | 容器化         |          |
-| 中间件         |          |
+| 中间件         | machitaoX |
 | 云计算&云原生   | csuzhang |
 | 书籍汇总       | csuzhang |
 | 推荐项目       | csuzhang |
