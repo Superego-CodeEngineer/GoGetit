@@ -114,13 +114,13 @@
 
 | 姓名                     | GitHub ID        |
 | ----------------------- | ---------------- |
-| csuzhang                | zhyChesterCheung |
-| yanyuwei                | Rocksnake        |
-| machitao                | machitaoX        |
-| sinyang                 | sin-coder        |
-| yujunfeng               | Jacob953         |
-| fukangyue               | iFuon            |
-| liruanjun               | LyliAgave        |
+| csuzhang                | [zhyChesterCheung](https://github.com/zhyChesterCheung) |
+| yanyuwei                | [Rocksnake](https://github.com/Rocksnake) |
+| machitao                | [machitaoX](https://github.com/machitaoX) |
+| sinyang                 | [sin-coder](https://github.com/sin-coder) |
+| yujunfeng               | [Jacob953](https://github.com/Jacob953) |
+| fukangyue               | [iFuon](https://github.com/iFuon) |
+| liruanjun               | [LyliAgave](https://github.com/LyliAgave) |
 
 
 # 4 项目排期
@@ -128,7 +128,7 @@
 | 内容领域        | 认领排期  |
 | ------------- | -------- |
 | Go基础         |          |
-| 操作系统        |          |
+| 操作系统        | yanyuwei |
 | 计算机网络      |          |
 | 数据库         |          |
 | 算法           |          |
