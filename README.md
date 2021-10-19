@@ -135,9 +135,9 @@
 | 数据结构        |fukangyue |
 | 容器化         |          |
 | 中间件         |          |
-| 云计算&云原生   |          |
-| 书籍汇总       |          |
-| 推荐项目       |          |
+| 云计算&云原生   | csuzhang |
+| 书籍汇总       | csuzhang |
+| 推荐项目       | csuzhang |
 | 高频面试题汇总  |          |
 
 # 5 GitHub Label
