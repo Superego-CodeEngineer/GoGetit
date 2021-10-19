@@ -131,7 +131,7 @@
 | 操作系统        | yanyuwei |
 | 计算机网络      | liruanjun |
 | 数据库         |          |
-| 算法           |          |
+| 算法           | jacob953 |
 | 数据结构        |fukangyue |
 | 容器化         |          |
 | 中间件         | machitaoX |
