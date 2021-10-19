@@ -10,16 +10,24 @@
 
 ——雄关漫道真如铁、而今迈步从头越
 
-
 ## 1.3 简介
 
+新手入门Go语言学习最佳指南与实践，涵盖Go基础语法、网络、操作系统、算法与数据结构、
+中间件、微服务、云原生、机器学习、大数据等领域全面指南与最佳实践。
 
 ## 1.4 项目介绍
 
+目前，高校普遍使用Java或C++进行教学，且由于Java和C++生态发展较早，而Go起步较晚，
+其生态并不非常完善而导致学习门槛较高；但Go语言由于其编写效率高、天然支持并发、工具链丰富、
+支持跨平台编译等特性，非常适合分布式系统、内存数据库、云计算、中间件等领域的开发，
+且已孵化出kubernetes、Docker、Prometheus等成熟项目。本项目意在帮助广大开发者朋友减少
+Go语言学习成本和信息搜索耗时，快速上手Go语言；介绍Go语言社区强大且日益完善的生态，以及
+通过一系列代码帮助开发者们了解Go语言社区新特性与进展；同时通过Go实现分布式、操作系统、gRPC、
+Docker容器化、可观测性等最佳实践。
 
 # 2 项目目录
 
-## 2.1 Go基础
+## [2.1 Go基础](docs/Language/README.md)
 ### 2.1.1 基础知识与概念
 ### 2.1.2 基本语法
 ### 2.1.3 基本数据类型
@@ -29,13 +37,13 @@
 
 
 
-## 2.2 操作系统
+## [2.2 操作系统](docs/Operating-System/README.md)
 ### 2.2.1 OS基本概念
 ### 2.2.2 Go操作系统编程
 
 
 
-## 2.3 计算机网络
+## [2.3 计算机网络](docs/Networking/README.md)
 ### 2.3.1 网络基础知识
 ### 2.3.2 网络分层
 ### 2.3.3 Go-HTTP
@@ -43,7 +51,7 @@
 
 
 
-## 2.4 数据库
+## 2.4 [数据库](docs/Databases/README.md)
 ### 2.4.1 关系型数据库
 #### MySQL
 ### 2.4.2 文档数据库
@@ -58,13 +66,13 @@
 
 
 
-## 2.5 算法
+## 2.5 [算法](docs/Algorithm/README.md)
 ### 2.5.1 LeetCode刷题指导(Go)
 ### 2.5.2 高频题总结
 
 
 
-## 2.6 数据结构
+## 2.6 [数据结构](docs/Data-Structure/README.md)
 ### 2.6.1 线性数据结构
 ### 2.6.2 树-数据结构
 ### 2.6.3 图-数据结构
@@ -73,7 +81,7 @@
 
 
 
-## 2.7 容器化
+## 2.7 [容器化](docs/Container/README.md)
 
 ### 2.7.1 虚拟化基础知识
 ### 2.7.2 容器化基础知识
@@ -82,13 +90,13 @@
 
 
 
-## 2.8 中间件
+## 2.8 [中间件](docs/Middleware/README.md)
 ### 2.8.1 消息队列
 ### 2.8.2 缓存
 
 
 
-## 2.9 云计算&云原生
+## 2.9 [云计算&云原生](docs/Cloud-Native/README.md)
 ### 2.9.1 云原生的前世今生
 ### 2.9.2 微服务
 ### 2.9.3 容器编排Kubernetes
@@ -96,15 +104,15 @@
 
 
 
-## 2.10 书籍汇总
+## 2.10 [书籍汇总](docs/Book-Summary/README.md)
 
 
 
-## 2.11 推荐项目
+## 2.11 [推荐项目](docs/Hot-Project/README.md)
 
 
 
-## 2.12 高频面试题汇总
+## 2.12 [高频面试题汇总](docs/Interview/README.md)
 
 
 
@@ -112,7 +120,14 @@
 
 # 3 项目成员
 
-| 姓名                     | GitHub ID        |
+GoGetit社区的发展离不开每个人的贡献，感谢你们！
+
+<a href="https://github.com/zhyChesterCheung/GoGetit/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=zhyChesterCheung/GoGetit" />
+</a>
+
+
+| 项目PMC成员                     | GitHub ID        |
 | ----------------------- | ---------------- |
 | csuzhang                | [zhyChesterCheung](https://github.com/zhyChesterCheung) |
 | yanyuwei                | [Rocksnake](https://github.com/Rocksnake) |
@@ -133,7 +148,7 @@
 | 数据库         |          |
 | 算法           | jacob953 |
 | 数据结构        |fukangyue |
-| 容器化         |          |
+| 容器化         | csuzhang  |
 | 中间件         | machitaoX |
 | 云计算&云原生   | csuzhang |
 | 书籍汇总       | csuzhang |
