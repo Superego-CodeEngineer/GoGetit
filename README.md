@@ -1,4 +1,4 @@
-# GoGetit
+GoGetit
 
 # 1 项目背景
 
@@ -52,19 +52,41 @@ Docker容器化、可观测性等最佳实践。
 
 
 ## 2.4 [数据库](docs/Databases/README.md)
-### 2.4.1 关系型数据库
-#### MySQL
-### 2.4.2 文档数据库
-#### MongoDB
-### 2.4.3 KV数据库
-#### Redis
-### 2.4.4 列存储数据库
-#### HBase
-### 2.4.5 分布式数据库
-#### TiDB
-### 2.4.6 图数据库
+### 2.4.1 Go - 操作数据库
 
+#### 2.4.1.1 关系型数据库(类MySQL)
 
+#### 2.4.1.2 KV数据库(类Redis)
+
+#### 2.4.1.3 文档数据库(MongoDB)
+
+#### 2.4.1.4 列存储数据库(Hbase)
+
+#### 2.4.1.5 图数据库(Neo4j)
+
+### 2.4.2  Go - 数据库驱动库
+
+​      MySQL 驱动、Redis-Go客户端等
+
+### 2.4.3  Go - 实现数据库
+
+#### 2.4.3.1 关系型数据库
+
+> TiDB 是一个使用Go实现计算层的分布式数据库，主要特点支分布式事务、HTAP、无限扩展等
+
+#### 2.4.3.2 时序数据库
+
+> Prometheus 一个服务监控系统和时间序列数据
+
+> Influxdb 开源的分布式指标、事件和实时分析的可扩展数据库
+
+#### 2.4.3.3 KV数据库
+
+> LedisDB: 基于 LevelDB 类似 Redis 的高性能 NoSQL 数据库
+
+### 2.4.4  Go - 数据库辅助工具
+
+​     数据库迁移、binlog复制、XAC
 
 ## 2.5 [算法](docs/Algorithm/README.md)
 ### 2.5.1 LeetCode刷题指导(Go)
@@ -145,7 +167,7 @@ GoGetit社区的发展离不开每个人的贡献，感谢你们！
 | Go基础         | machitaoX |
 | 操作系统        | yanyuwei |
 | 计算机网络      | liruanjun |
-| 数据库         |          |
+| 数据库         | sin-coder |
 | 算法           | jacob953 |
 | 数据结构        |fukangyue |
 | 容器化         | csuzhang  |
