@@ -1,6 +1,6 @@
-# Go - 数据库
+# Go Fuck DataBase
 
-## 一、 Go - 操作数据库
+## 一、Go - DataBase Usage 
 
 ### 1、关系型数据库(类MySQL)
 
@@ -12,9 +12,9 @@
 
 ### 5、图数据库(Neo4j)
 
-## 二、  Go - 驱动数据库 
+## 二、Go -  DataBase Driver
 
-## 三、  Go - 实现数据库
+## 三、Go - DataBase Implement
 
 ### 1、关系型数据库
 
@@ -22,5 +22,5 @@
 
 ### 3、KV数据库
 
-## 四、  Go - 辅助数据库
+## 四、Go - DataBase Helper
 
