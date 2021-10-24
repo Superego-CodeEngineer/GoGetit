@@ -1,21 +1,44 @@
-GoGetit
+<p align="center">
+  <a href="https://github.com/zhyChesterCheung/GoGetit">
+    <img src="image/logo.png" alt="Logo" width="100" height="100">
+  </a>
+  <h1 align="center">
+    <a href="https://github.com/zhyChesterCheung/GoGetit">
+      <font color=black>GoGetit</font>
+    </a>
+  </h1>
+</p>
+<div align="center">
+  <strong>
+    雄关漫道真如铁、而今迈步从头越
+  </strong>
+  <br><br>
+  <p>
+    新手入门Go语言学习最佳指南与实践，涵盖Go基础语法、网络、操作系统、算法与数据结构、中间件、微服务、云原生、机器学习、大数据等领域全面指南与最佳实践
+  </p>
+</div>
+<div align="center">
+  <a href="https://github.com/zhyChesterCheung/GoGetit/issues">
+    <img src="https://img.shields.io/github/issues/zhyChesterCheung/GoGetit" alt="issues">
+  </a>
+  <a href="https://github.com/zhyChesterCheung/GoGetit">
+    <img src="https://img.shields.io/github/forks/zhyChesterCheung/GoGetit" alt="fork">
+  </a>
+  <a href="https://github.com/zhyChesterCheung/GoGetit">
+    <img src="https://img.shields.io/github/stars/zhyChesterCheung/GoGetit" alt="star">
+  </a>
+  <a href="https://github.com/zhyChesterCheung/GoGetit/blob/main/LICENSE">
+   <img src="https://img.shields.io/github/license/zhyChesterCheung/GoGetit" alt="license">
+  </a>
+</div>
 
 # 1 项目背景
 
-## 1.1 项目地址：
+## 1.1 项目地址
 
-[GoGetit](https://github.com/zhyChesterCheung/GoGetit)
+- [GoGetit](https://github.com/zhyChesterCheung/GoGetit)
 
-## 1.2 前言：
-
-——雄关漫道真如铁、而今迈步从头越
-
-## 1.3 简介
-
-新手入门Go语言学习最佳指南与实践，涵盖Go基础语法、网络、操作系统、算法与数据结构、
-中间件、微服务、云原生、机器学习、大数据等领域全面指南与最佳实践。
-
-## 1.4 项目介绍
+## 1.2 项目介绍
 
 目前，高校普遍使用Java或C++进行教学，且由于Java和C++生态发展较早，而Go起步较晚，
 其生态并不非常完善而导致学习门槛较高；但Go语言由于其编写效率高、天然支持并发、工具链丰富、
@@ -179,3 +202,6 @@ GoGetit社区的发展离不开每个人的贡献，感谢你们！
 - 其他不道德或不专业的行为
 
 项目维护者有权利和责任删除、编辑或拒绝评论、提交、代码、维基编辑、问题和其他不符合本行为准则的贡献。通过采用本行为准则，项目维护者承诺将这些原则公平且一致地应用到这个项目管理的各个方面。不遵守或不执行行为准则的项目维护者可能被永久地从项目团队中移除。
+
+# 8 License
+[Apache](https://github.com/zhyChesterCheung/GoGetit/blob/main/LICENSE) © Richard Littauer
