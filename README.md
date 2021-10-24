@@ -50,90 +50,53 @@ Docker容器化、可观测性等最佳实践。
 
 # 2 项目目录
 
-## [2.1 Go基础](docs/Language/README.md)
-### 2.1.1 基础知识与概念
-### 2.1.2 基本语法
-### 2.1.3 基本数据类型
-### 2.1.4 Go并发
-### 2.1.5 Goruntine
-### 2.1.6 Go新特性
+1. [Go基础](docs/Language/README.md)
+- 基础知识与概念
+- 基本语法
+- 基本数据类型
+- Go并发
+- Goruntine
+- Go新特性
+2. [操作系统](docs/Operating-System/README.md)
+- OS基本概念
+- Go操作系统编程
+3. [计算机网络](docs/Networking/README.md)
+- 网络基础知识
+- 网络分层
+- Go-HTTP
+- Go-RPC
+4. [数据库](docs/Databases/README.md)
+- Go - 操作数据库
+- Go - 数据库驱动库
+- Go - 实现数据库
+- Go - 数据库辅助工具
+5. [算法](docs/Algorithm/README.md)
+- LeetCode刷题指导(Go)
+- 高频题总结
+6. [数据结构](docs/Data-Structure/README.md)
+- 线性数据结构
+- 树-数据结构
+- 图-数据结构
+- 堆-数据结构
+- 其他-数据结构
+7. [容器化](docs/Container/README.md)
+- 虚拟化基础知识
+- 容器化基础知识
+- Docker应用
+- Go-Docker开发
+8. [中间件](docs/Middleware/README.md)
+- 消息队列
+- 缓存
+9. [云计算&云原生](docs/Cloud-Native/README.md)
+- 云原生的前世今生
+- 微服务
+- 容器编排Kubernetes
+- 可观测性
+10. [书籍汇总](docs/Book-Summary/README.md)
+11. [推荐项目](docs/Hot-Project/README.md)
+12. [高频面试题汇总](docs/Interview/README.md)
 
-
-
-## [2.2 操作系统](docs/Operating-System/README.md)
-### 2.2.1 OS基本概念
-### 2.2.2 Go操作系统编程
-
-
-
-## [2.3 计算机网络](docs/Networking/README.md)
-### 2.3.1 网络基础知识
-### 2.3.2 网络分层
-### 2.3.3 Go-HTTP
-### 2.3.4 Go-RPC
-
-
-
-## 2.4 [数据库](docs/Databases/README.md)
-### 2.4.1 Go - 操作数据库
-
-### 2.4.2  Go - 数据库驱动库
-
-### 2.4.3  Go - 实现数据库
-
-### 2.4.4  Go - 数据库辅助工具
-
-## 2.5 [算法](docs/Algorithm/README.md)
-### 2.5.1 LeetCode刷题指导(Go)
-### 2.5.2 高频题总结
-
-
-
-## 2.6 [数据结构](docs/Data-Structure/README.md)
-### 2.6.1 线性数据结构
-### 2.6.2 树-数据结构
-### 2.6.3 图-数据结构
-### 2.6.4 堆-数据结构
-### 2.6.5 其他-数据结构
-
-
-
-## 2.7 [容器化](docs/Container/README.md)
-
-### 2.7.1 虚拟化基础知识
-### 2.7.2 容器化基础知识
-### 2.7.3 Docker应用
-### 2.7.4 Go-Docker开发
-
-
-
-## 2.8 [中间件](docs/Middleware/README.md)
-### 2.8.1 消息队列
-### 2.8.2 缓存
-
-
-
-## 2.9 [云计算&云原生](docs/Cloud-Native/README.md)
-### 2.9.1 云原生的前世今生
-### 2.9.2 微服务
-### 2.9.3 容器编排Kubernetes
-### 2.9.4 可观测性
-
-
-
-## 2.10 [书籍汇总](docs/Book-Summary/README.md)
-
-
-
-## 2.11 [推荐项目](docs/Hot-Project/README.md)
-
-
-
-## 2.12 [高频面试题汇总](docs/Interview/README.md)
-
-
-
-
+...
 
 # 3 项目成员
 
@@ -188,6 +151,8 @@ GoGetit社区的发展离不开每个人的贡献，感谢你们！
 
 # 6 行为准则
 
+> 本项目遵循 [`Apache license`](https://github.com/zhyChesterCheung/GoGetit/blob/main/LICENSE)
+
 作为这个项目的贡献者和维护者，为了建立一个开放和受欢迎的社区，我们保证尊重所有通过报告问题、发布功能请求、更新文档、提交拉取请求或补丁以及其他活动做出贡献的人员。
 
 我们致力于让参与此项目的每个人都不受骚扰，无论其经验水平、性别、性别认同和表达、性取向、残疾、个人外貌、体型、人种、种族、年龄、宗教或国籍等。
@@ -203,5 +168,6 @@ GoGetit社区的发展离不开每个人的贡献，感谢你们！
 
 项目维护者有权利和责任删除、编辑或拒绝评论、提交、代码、维基编辑、问题和其他不符合本行为准则的贡献。通过采用本行为准则，项目维护者承诺将这些原则公平且一致地应用到这个项目管理的各个方面。不遵守或不执行行为准则的项目维护者可能被永久地从项目团队中移除。
 
-# 8 License
-[Apache](https://github.com/zhyChesterCheung/GoGetit/blob/main/LICENSE) © Richard Littauer
+# 7 联系我们
+
+Email：<cheung.zhy.csu@gmail.com>
