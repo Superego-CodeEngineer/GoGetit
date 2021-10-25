@@ -71,8 +71,11 @@ Docker容器化、可观测性等最佳实践。
    - Go - 实现数据库
    - Go - 数据库辅助工具
 5. [算法](docs/Algorithm/README.md)
-   - LeetCode刷题指导(Go)
-   - 高频题总结
+   - Go - 基础篇
+   - Go - 进阶篇
+   - Go - 刷题指导
+   - Go - 高频题总结
+
 6. [数据结构](docs/Data-Structure/README.md)
    - 线性数据结构
    - 树-数据结构
