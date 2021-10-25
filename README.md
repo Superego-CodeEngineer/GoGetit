@@ -51,47 +51,47 @@ Docker容器化、可观测性等最佳实践。
 # 2 项目目录
 
 1. [Go基础](docs/Language/README.md)
-- 基础知识与概念
-- 基本语法
-- 基本数据类型
-- Go并发
-- Goruntine
-- Go新特性
+   - 基础知识与概念
+   - 基本语法
+   - 基本数据类型
+   - Go并发
+   - Goruntine
+   - Go新特性
 2. [操作系统](docs/Operating-System/README.md)
-- OS基本概念
-- Go操作系统编程
+   - OS基本概念
+   - Go操作系统编程
 3. [计算机网络](docs/Networking/README.md)
-- 网络基础知识
-- 网络分层
-- Go-HTTP
-- Go-RPC
+   - 网络基础知识
+   - 网络分层
+   - Go-HTTP
+   - Go-RPC
 4. [数据库](docs/Databases/README.md)
-- Go - 操作数据库
-- Go - 数据库驱动库
-- Go - 实现数据库
-- Go - 数据库辅助工具
+   - Go - 操作数据库
+   - Go - 数据库驱动库
+   - Go - 实现数据库
+   - Go - 数据库辅助工具
 5. [算法](docs/Algorithm/README.md)
-- LeetCode刷题指导(Go)
-- 高频题总结
+   - LeetCode刷题指导(Go)
+   - 高频题总结
 6. [数据结构](docs/Data-Structure/README.md)
-- 线性数据结构
-- 树-数据结构
-- 图-数据结构
-- 堆-数据结构
-- 其他-数据结构
+   - 线性数据结构
+   - 树-数据结构
+   - 图-数据结构
+   - 堆-数据结构
+   - 其他-数据结构
 7. [容器化](docs/Container/README.md)
-- 虚拟化基础知识
-- 容器化基础知识
-- Docker应用
-- Go-Docker开发
+   - 虚拟化基础知识
+   - 容器化基础知识
+   - Docker应用
+   - Go-Docker开发
 8. [中间件](docs/Middleware/README.md)
-- 消息队列
-- 缓存
+   - 消息队列
+   - 缓存
 9. [云计算&云原生](docs/Cloud-Native/README.md)
-- 云原生的前世今生
-- 微服务
-- 容器编排Kubernetes
-- 可观测性
+   - 云原生的前世今生
+   - 微服务
+   - 容器编排Kubernetes
+   - 可观测性
 10. [书籍汇总](docs/Book-Summary/README.md)
 11. [推荐项目](docs/Hot-Project/README.md)
 12. [高频面试题汇总](docs/Interview/README.md)
