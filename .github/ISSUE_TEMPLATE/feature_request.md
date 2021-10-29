@@ -2,13 +2,16 @@
 name: Feature request
 about: Suggest an new feature for GoGetit
 title: "[Feat]: "
-labels: ''
-assignees: ''
+labels: documentation, enhancement
+assignees: machitaoX, Rocksnake, zhyChesterCheung, sin-coder, Jacob953, LyliAgave,
+  iFuon
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+A clear and concise description of what the feature is. Ex. I'm always frustrated when [...]
+1. 
+2. 
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
