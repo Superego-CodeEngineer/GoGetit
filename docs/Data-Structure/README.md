@@ -4,9 +4,9 @@
 #### 1、数组
 #### 2、链表
 - 单链表
-![singLinkedList](https://github.com/zhyChesterCheung/GoGetit/image/singLinkedList.png)
+![singLinkedList](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/singLinkedList.png)
 - 双链表
-![双链表](https://github.com/zhyChesterCheung/GoGetit/image/双链表.png)
+![双链表](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/%E5%8F%8C%E9%93%BE%E8%A1%A8.png)
 #### 3、栈
 - 栈的应用：
 #### 4、队列
