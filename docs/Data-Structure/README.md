@@ -4,7 +4,7 @@
 #### 1、数组
 #### 2、链表
 - 单链表
-![单链表](https://github.com/zhyChesterCheung/GoGetit/tree/main/image/单链表.png)
+![singLinkedList](https://github.com/zhyChesterCheung/GoGetit/tree/main/image/singLinkedList.png)
 - 双链表
 #### 3、栈
 - 栈的应用：
