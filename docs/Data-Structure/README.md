@@ -3,17 +3,21 @@
 ## 一、线性数据结构
 #### 1、数组
 #### 2、链表
-- 单链表
+- 单链表  
+
 ![singLinkedList](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/singLinkedList.png)
-- 双链表
-![双链表](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/%E5%8F%8C%E9%93%BE%E8%A1%A8.png)
+- 双链表  
+![dou](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/douLinkedlist.png)
 #### 3、栈
+![stack](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/stack.png)
 - 栈的应用：
 #### 4、队列
-- 单队列
+- 单队列  
+  ![queue](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/queue.png)
 - 循环队列
 - 队列的应用：
 ## 二、树
+![tree](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/tree.png)
 #### 1、树的基本概念
 树的结点（node）：包含一个数据元素及若干指向子树的分支。
 
@@ -46,8 +50,10 @@
 - single/double rotation
 ## 三、堆
 #### 1、由优先队列引出堆的基本概念
-#### 2、最大堆
+#### 2、最大堆  
+![maxheap](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/maxheap.png)
 #### 3、最小堆
+![minheap](https://github.com/zhyChesterCheung/GoGetit/blob/feature/fky_add_images/image/minheap.png)
 #### 3、堆排序
 ## 四、图
 #### 1、图的一些语术
