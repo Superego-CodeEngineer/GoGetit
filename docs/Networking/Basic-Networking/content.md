@@ -66,7 +66,7 @@
 
 ###### 协议是对等实体之间的通信规程，主要对实体间通信的语法、语义、同步、纠错四大方面进行约定。
 
-<img src="./img/Protocol-Hierarchies.jpeg" alt="协议层次" style="zoom:50%;" />
+![Protocol-Hierarchies](https://github.com/zhyChesterCheung/GoGetit/blob/main/image/Networking/Basic-Networking/Protocol-Hierarchies.jpeg)
 
 ##### 协议的层次结构：
 
