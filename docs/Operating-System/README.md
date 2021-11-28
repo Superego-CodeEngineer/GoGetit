@@ -11,7 +11,7 @@
 1. [Process and process API [进程与进程相关的API]](./Process-and-process-Api/Content.md)
 
 
-2. Direct Execution [CPU 直接执行]
+2. [Direct Execution [CPU 直接执行]](./Direct-Execution/Content.md)
    - 直接执行
    - 受限直接执行
 
