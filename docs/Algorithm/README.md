@@ -6,76 +6,58 @@
 
 在进行算法学习前，我想要先明确一下算法与数据结构之间的关系：
 
-- 数据结构是为算法服务的；
-- 算法是需要建立在特定的数据结构之上的。
+- 数据结构是为算法服务的
+- 算法是需要建立在特定的数据结构之上的
 
 所以，如果你还没有学过数据结构，我希望你能够先参考一下：
-[GO 数据结构](https://github.com/zhyChesterCheung/GoGetit/blob/main/docs/Data-Structure/README.md) 。
+[GO 数据结构](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Data-Structure/README.md)
 
 同时，本算法模块将全程使用 Go 语言实现，如果你对 Go 的掌握程度还不够自信，也可以参考一下：
-[Go 基础](https://github.com/zhyChesterCheung/GoGetit/tree/main/docs/Language) 。
+[Go 基础](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Language/README.md)
 
-接下来，我会假设你已经有了一定的数据结构基础和 Go 编程基础。
+接下来，我会假设你已经有了一定的数据结构基础和 Go 编程基础
 
 不过，在详细介绍算法之前，我认为还有一样十分重要的内容需要明确：
 
-- 对于算法方面的研究，复杂的数学推理和证明是非常重要的，但是，本算法模块可能并不太适用于这类需求；
+- 对于算法方面的研究，复杂的数学推理和证明是非常重要的，但是，本算法模块可能并不太适用于这类需求
 
-- 本算法模块不会过度关注数学性的推导，而是由浅入深，逐步分析不同算法的具体的环境，给予最直观的感受。
+- 本算法模块不会过度关注数学性的推导，而是由浅入深，逐步分析不同算法的具体的环境，给予最直观的感受
 
-因此，请放心，接下来的内容不需要过于强悍的数学基础。
+因此，请放心，接下来的内容不需要过于强悍的数学基础
 
 ## Go - 基础篇
 
-0. Complexion of Time & Space - 时空复杂度
+0. [Analysis of Complexion - 复杂度分析](basic/00-complexion-analysis.md)
 
+   Go - 复杂度分析的意义
 
-1. Divide & Conquer - 分治
+   Go - 大 O 复杂度表示法
 
+   Go - 时间复杂度分析
 
-2. Recursion - 递归
+   Go - 空间复杂度分析
 
+   Go - 常见的复杂度量级
+
+1. [Recursion - 递归](basic/01-recursion.md)
+
+2. [Divide & Conquer - 分治](basic/02-divide-conquer.md)
 
 3. Hash - 哈希
 
-
 4. Backtracking - 回溯
-
 
 5. Greedy - 贪心
 
-
 6. Dynamic Programming - 动态规划
-
 
 7. Sort - 排序
 
-
 8. Search - 搜索
-
 
 9. String Matching - 字符串匹配
 
-
 ## Go - 进阶篇
-
-排序：拓扑排序
-
-最短路径
-
-位图
-
-概率统计
-
-并行
-
-B+树
-
-搜索：A*
-
-索引
-
-拜占庭
 
 ## Go - 刷题指导
 
