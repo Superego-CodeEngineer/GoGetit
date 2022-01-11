@@ -10,10 +10,10 @@
 - 算法是需要建立在特定的数据结构之上的
 
 所以，如果你还没有学过数据结构，我希望你能够先参考一下：
-[GO 数据结构](https://github.com/zhyChesterCheung/GoGetit/blob/main/docs/Data-Structure/README.md)
+[GO 数据结构](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Data-Structure/README.md)
 
 同时，本算法模块将全程使用 Go 语言实现，如果你对 Go 的掌握程度还不够自信，也可以参考一下：
-[Go 基础](https://github.com/zhyChesterCheung/GoGetit/tree/main/docs/Language)
+[Go 基础](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Language/README.md)
 
 接下来，我会假设你已经有了一定的数据结构基础和 Go 编程基础
 
