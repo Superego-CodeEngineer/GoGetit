@@ -41,7 +41,13 @@
 
 1. [Recursion - 递归](basic/01-recursion.md)
 
-2. [Divide & Conquer - 分治](basic/02-divide-conquer.md)
+   Go - 什么是递归？
+
+   Go - 递归的三个条件
+
+   Go - 递归的注意事项
+
+2. Divide & Conquer - 分治
 
 3. Hash - 哈希
 
