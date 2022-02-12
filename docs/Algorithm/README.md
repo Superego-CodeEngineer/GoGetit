@@ -10,7 +10,7 @@
 - 算法是需要建立在特定的数据结构之上的
 
 所以，如果你还没有学过数据结构，我希望你能够先参考一下：
-[GO 数据结构](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Data-Structure/README.md)
+[Go 数据结构](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Data-Structure/README.md)
 
 同时，本算法模块将全程使用 Go 语言实现，如果你对 Go 的掌握程度还不够自信，也可以参考一下：
 [Go 基础](https://github.com/Superego-CodeEngineer/GoGetit/blob/main/docs/Language/README.md)
@@ -47,7 +47,7 @@
 
    Go - 递归的注意事项
 
-2. Divide & Conquer - 分治
+2. Sort - 排序
 
 3. Hash - 哈希
 
@@ -57,7 +57,7 @@
 
 6. Dynamic Programming - 动态规划
 
-7. Sort - 排序
+7. Divide & Conquer - 分治
 
 8. Search - 搜索
 
