@@ -36,35 +36,39 @@
 
 > 文中涉及到的算法将会一一列举在[这里](../../code/Algorithm/basic/)，你可以使用 go test 命令进行测试
 
-1. [Analysis of Complexion - 复杂度分析](basic/00-complexion-analysis.md)
-
+1. [Analysis of Complexion - 复杂度分析](basic/01-complexion-analysis.md)
    - Go - 复杂度分析的意义
    - Go - 大 O 复杂度表示法
    - Go - 时间复杂度分析
    - Go - 空间复杂度分析
    - Go - 常见的复杂度量级
 
-2. [Recursion - 递归](basic/01-recursion.md)
-
+2. [Recursion - 递归](basic/02-recursion.md)
    - Go - 什么是递归？
    - Go - 递归的三个条件
    - Go - 递归的注意事项
 
-3. [Sort - 排序](basic/02-sort.md)
+3. [Sort - 排序](basic/03-sort.md)
+   - Go - 排序算法的指标
+   - Go - 排序算法的分类
 
-4. Hash - 哈希
+4. [Hash - 哈希](basic/04-hash.md)
 
-5. Backtracking - 回溯
+5. [Search - 搜索](basic/05-search.md)
 
-6. Greedy - 贪心
+6. [String Matching - 字符串匹配](basic/06-string-matching.md)
 
-7. Dynamic Programming - 动态规划
+7. [Greedy - 贪心](basic/09-greedy.md)
+   - Go - 贪心算法的通常适用场景
+   - Go - 贪心算法的核心思想
+   - Go - 贪心算法与最优解的关系
+   - Go - 贪心算法的应用
 
-8. Divide & Conquer - 分治
+8. [Divide & Conquer - 分治](basic/07-divide-conquer.md)
 
-9. [Search - 搜索](basic/08-search.md)
+9. [Backtracking - 回溯](basic/08-backtracking.md)
 
-10. String Matching - 字符串匹配
+10. [Dynamic Programming - 动态规划](basic/10-dynamic-programming.md)
 
 ## Go - 进阶篇
 
