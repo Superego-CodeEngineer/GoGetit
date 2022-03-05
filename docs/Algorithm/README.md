@@ -58,15 +58,15 @@
 
 6. [String Matching - 字符串匹配](basic/06-string-matching.md)
 
-7. [Greedy - 贪心](basic/09-greedy.md)
+7. [Greedy - 贪心](basic/07-greedy.md)
    - Go - 贪心算法的通常适用场景
    - Go - 贪心算法的核心思想
    - Go - 贪心算法与最优解的关系
    - Go - 贪心算法的应用
 
-8. [Divide & Conquer - 分治](basic/07-divide-conquer.md)
+8. [Divide & Conquer - 分治](basic/08-divide-conquer.md)
 
-9. [Backtracking - 回溯](basic/08-backtracking.md)
+9. [Backtracking - 回溯](basic/09-backtracking.md)
 
 10. [Dynamic Programming - 动态规划](basic/10-dynamic-programming.md)
 
