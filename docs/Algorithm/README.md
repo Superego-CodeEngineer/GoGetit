@@ -65,10 +65,20 @@
    - Go - 贪心算法的应用
 
 8. [Divide & Conquer - 分治](basic/08-divide-conquer.md)
+   - Go - 分治算法的三个步骤
+   - Go - 分治算法的条件
+   - Go - 分治算法的应用
 
-9. [Backtracking - 回溯](basic/09-backtracking.md)
+9.  [Backtracking - 回溯](basic/09-backtracking.md)
+   - Go - 经典的八皇后问题
+	- Go - 回溯的核心思想
+	- Go - 回溯算法的应用
 
 10. [Dynamic Programming - 动态规划](basic/10-dynamic-programming.md)
+  - Go - 动态规划的通用模型
+  - Go - 动态规划的三个特征
+  - Go - 动态规划的两种方法
+  - Go - 动态规划的应用
 
 ## Go - 进阶篇
 
