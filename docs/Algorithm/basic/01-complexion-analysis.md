@@ -1,6 +1,6 @@
-# 0. Analysis of Complexion - 复杂度分析
+# 1. Analysis of Complexion - 复杂度分析
 
-- [0. Analysis of Complexion - 复杂度分析](#0-analysis-of-complexion---复杂度分析)
+- [1. Analysis of Complexion - 复杂度分析](#1-analysis-of-complexion---复杂度分析)
   - [Go - 复杂度分析的意义](#go---复杂度分析的意义)
   - [Go - 大 O 复杂度表示法](#go---大-o-复杂度表示法)
   - [Go - 时空复杂度](#go---时空复杂度)

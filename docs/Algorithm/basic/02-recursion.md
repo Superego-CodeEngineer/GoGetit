@@ -1,6 +1,6 @@
-# 1. Recursion - 递归
+# 2. Recursion - 递归
 
-- [1. Recursion - 递归](#1-recursion---递归)
+- [2. Recursion - 递归](#2-recursion---递归)
   - [Go - 什么是递归？](#go---什么是递归)
   - [Go - 递归的三个条件](#go---递归的三个条件)
   - [Go - 递归的注意事项](#go---递归的注意事项)

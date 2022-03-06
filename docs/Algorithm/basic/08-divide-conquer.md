@@ -1,6 +1,6 @@
-# 7. Analysis of Complexion - 分治
+# 8. Analysis of Complexion - 分治
 
-- [7. Analysis of Complexion - 分治](#7-analysis-of-complexion---分治)
+- [8. Analysis of Complexion - 分治](#8-analysis-of-complexion---分治)
   - [Go - 分治算法的三个步骤](#go---分治算法的三个步骤)
   - [Go - 分治算法的条件](#go---分治算法的条件)
   - [Go - 分治算法的应用](#go---分治算法的应用)
