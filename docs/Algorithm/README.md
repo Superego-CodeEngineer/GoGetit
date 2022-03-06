@@ -53,6 +53,9 @@
    - Go - 排序算法的分类
 
 4. [Hash - 哈希](basic/04-hash.md)
+   - Go - 哈希算法的定义
+   - Go - 哈希算法的特征
+   - Go - 哈希算法的应用
 
 5. [Search - 搜索](basic/05-search.md)
 
