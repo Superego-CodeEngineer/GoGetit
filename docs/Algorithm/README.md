@@ -53,22 +53,35 @@
    - Go - 排序算法的分类
 
 4. [Hash - 哈希](basic/04-hash.md)
+   - Go - 哈希算法的定义
+   - Go - 哈希算法的特征
+   - Go - 哈希算法的应用
 
 5. [Search - 搜索](basic/05-search.md)
 
 6. [String Matching - 字符串匹配](basic/06-string-matching.md)
 
-7. [Greedy - 贪心](basic/09-greedy.md)
+7. [Greedy - 贪心](basic/07-greedy.md)
    - Go - 贪心算法的通常适用场景
    - Go - 贪心算法的核心思想
    - Go - 贪心算法与最优解的关系
    - Go - 贪心算法的应用
 
-8. [Divide & Conquer - 分治](basic/07-divide-conquer.md)
+8. [Divide & Conquer - 分治](basic/08-divide-conquer.md)
+   - Go - 分治算法的三个步骤
+   - Go - 分治算法的条件
+   - Go - 分治算法的应用
 
-9. [Backtracking - 回溯](basic/08-backtracking.md)
+9.  [Backtracking - 回溯](basic/09-backtracking.md)
+   - Go - 经典的八皇后问题
+	- Go - 回溯的核心思想
+	- Go - 回溯算法的应用
 
 10. [Dynamic Programming - 动态规划](basic/10-dynamic-programming.md)
+  - Go - 动态规划的通用模型
+  - Go - 动态规划的三个特征
+  - Go - 动态规划的两种方法
+  - Go - 动态规划的应用
 
 ## Go - 进阶篇
 
